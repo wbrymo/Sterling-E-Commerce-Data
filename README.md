@@ -1,2 +1,2 @@
 # Sterling-E-Commerce-Data
-As a data scientist tasked with understanding Sterling's customer data to help improve their business efficiency, optimize product offerings, and enhance customer experience. i was able to understand customer needs and preferences, Identify patterns and trends, Use bar charts, line chart and pie chart to visualize the distribution of features.
+As a data scientist, I was tasked with understanding Sterling's customer data, which, in effect, helped improve business efficiency and optimized product offerings both now and in the future. Through my work on this project, I could understand customer preferences and needs, discover any patterns or trends, and deploy bar charts, line charts, and pie charts in the distribution of features visualization.
