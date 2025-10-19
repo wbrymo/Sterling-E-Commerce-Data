@@ -56,7 +56,17 @@ Aggregated transactions by category, region, and customer segment.
 
 a. Product Category Analysis
 
-Top 5 categories: Mobiles & Tablets (60,954 orders), Men’s Fashion (40,183), Appliances (32,693), Women’s Fashion (28,003), and Others (25,913).
+Top 5 categories: 
+
+1. Mobiles & Tablets (60,954 orders)
+
+2. Men’s Fashion (40,183
+
+3. Appliances (32,693)
+
+4. Women’s Fashion (28,003)
+
+5. Others (25,913)
 
 These categories contributed most to overall revenue and demand frequency
 
